@@ -166,3 +166,13 @@ As with all Red Hat performance-based exams, configurations must persist after r
  
 
 From <https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam?section=Objectives>  
+
+
+
+Resources: https://learn.acloud.guru/course/red-hat-certified-system-administrator-ex200-exam-prep/dashboard 
+
+ https://www.udemy.com/course/unofficial-linux-redhat-certified-system-administrator-rhcsa-8/learn/lecture/26272782#content 
+
+ https://www.tecmint.com/download-rhel-8-for-free/ 
+
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8 
